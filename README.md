@@ -1,2 +1,2 @@
 # CODOMANIA
-A Coding-blog for tech junkies.
+A Coding-Blog for tech junkies.
