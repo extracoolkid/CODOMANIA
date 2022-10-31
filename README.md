@@ -1,10 +1,10 @@
-## CODOMANIA
+# CODOMANIA
 A Coding-Blog for tech junkies.
 
-#This blog features latest tech news.
+## This blog features latest tech news.
 
-#Articles on Competetive Coding.
+## Articles on Competetive Coding.
 
-#Latest tech opportunities.
+## Latest tech opportunities.
 
 
