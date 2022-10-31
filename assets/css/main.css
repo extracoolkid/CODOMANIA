@@ -6,6 +6,32 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+@keyframes flickerAnimation {
+	0%   { opacity:1; }
+	50%  { opacity:0; }
+	100% { opacity:1; }
+  }
+  @-o-keyframes flickerAnimation{
+	0%   { opacity:1; }
+	50%  { opacity:0; }
+	100% { opacity:1; }
+  }
+  @-moz-keyframes flickerAnimation{
+	0%   { opacity:1; }
+	50%  { opacity:0; }
+	100% { opacity:1; }
+  }
+  @-webkit-keyframes flickerAnimation{
+	0%   { opacity:1; }
+	50%  { opacity:0; }
+	100% { opacity:1; }
+  }
+  .mainhead{
+	-webkit-animation: flickerAnimation .5s infinite;
+	-moz-animation: flickerAnimation .5s infinite;
+	-o-animation: flickerAnimation .5s infinite;
+	 animation: flickerAnimation .5s infinite;
+ }
 img{
 	border-radius: 5%;
 }
